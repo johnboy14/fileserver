@@ -1,0 +1,19 @@
+{
+	"ImportPath": "github.com/johnboy14/fileserver",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v74",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/russross/blackfriday",
+			"Comment": "v1.4-38-g93622da",
+			"Rev": "93622da34e54fb6529bfb7c57e710f37a8d9cbd8"
+		},
+		{
+			"ImportPath": "github.com/shurcooL/sanitized_anchor_name",
+			"Rev": "10ef21a441db47d8b13ebcc5fd2310f636973c77"
+		}
+	]
+}
